@@ -1,1 +1,1 @@
-PROC print data=sashelp.class;run;run;
+PROC print data=sashelp.class;run;run;PROC contents;run;
