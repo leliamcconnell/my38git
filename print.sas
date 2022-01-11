@@ -1,4 +1,4 @@
  
-PROC print data=sashelp.class;run;run;PROC contents data=sashelp.class;run;
+PROC print data=sashelp.class;run;run;PROC contents data=sashelp.class; 
  
  
